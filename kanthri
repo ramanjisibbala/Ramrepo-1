@@ -1,0 +1,83 @@
+{
+    "movie theaters" : [
+        {
+            "name" : "ASR"
+            "movie" : "aravinda sametha"
+            "location" : "madhura nagar"
+            "city" : "madanapalli"
+            "district" : "chittoor"
+
+
+        }
+
+
+       {
+           "name" : "Ravi"
+           "movie" : "varna"
+            "location" : "ngvpalli"
+            "city" : "madanapalli"
+            "district" : "chittoor"
+
+
+       }
+
+                     ]
+
+    " play ground" : [
+
+        {
+            "name" : "ntr statidiam"
+            "location" : "ram nagar"
+            "city" : "mpl"
+
+        }
+
+
+
+        {
+             "name" : "ntr statidiam"
+            "location" : "ram nagar"
+            "city" : "mpl"
+
+
+
+        }
+    ]
+
+}
+
+
+============================================================================================================
+
+
+
+{
+
+"trains information" : [
+
+{
+"train no" : "12163"
+"train name" : "kanyakumari"
+"from" : "mumbai"
+"to" : "kanyakumari"
+"stations" : ["pune","wadi","guntakal","kdp"]
+"type" : "express"
+}
+
+{
+"train no" : "12163"
+"train name" : "kanyakumari"
+"from" : "mumbai"
+"to" : "kanyakumari"
+"stations" : ["pune","wadi","guntakal","kdp"]
+"type" : "express"
+}
+
+
+
+
+] 
+
+
+
+}
